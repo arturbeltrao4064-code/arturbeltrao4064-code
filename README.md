@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou o Artur 👋
 
-<!--
-**arturbeltrao4064-code/arturbeltrao4064-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação na UFRGS
 
-Here are some ideas to get you started:
+💻 Interessado em Desenvolvimento de Software e Engenharia de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente estudando
+
+- C/C++
+- Python
+- Estruturas de Dados
+- Algoritmos
+- Git e GitHub
+
+### 🛠️ Tecnologias
+
+- C/C++
+- Python
+- Git
+- GitHub
+- Raylib
+
+### 📚 Formação
+
+**Universidade Federal do Rio Grande do Sul (UFRGS)**  
+Engenharia da Computação — 2026–atual
+
+### 📌 Projetos
+
+- 🎮 **Projeto Hollow Knight** — Projeto acadêmico desenvolvido em **C utilizando Raylib**, realizado em equipe para a disciplina de Algoritmos e Programação na UFRGS.
+   [Ver projeto →](https://github.com/CarlosHenriqueVier/ProjetoHollowKight)
+
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/arturbeltrao/)
+- [E-Mail](arturbeltrao.4064@gmail.com)
