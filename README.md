@@ -32,4 +32,4 @@ Engenharia da Computação — 2026–atual
 
 ### 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/arturbeltrao/)
-- [E-Mail](arturbeltrao.4064@gmail.com)
+- [E-Mail](mailto:arturbeltrao.4064@gmail.com)
